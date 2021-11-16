@@ -1,6 +1,6 @@
 ---
-identifier: jekyll-idea-1
+identifier: jekyll-idea-3
 name: Idea
 price: 9.99
-image: /assets/images/concept.jpg
+image: /assets/images/idea.jpg
 ---
